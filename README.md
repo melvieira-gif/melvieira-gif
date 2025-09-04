@@ -9,9 +9,7 @@
 - 1° ano do Ensino técnico
   - Senai Santo Paschoal Crepaldi.
 - Fiz 1 ano de inglês na escola CCAA de Presidente Prudente- Inglês básico.
-  
 
-![imagem não disponível](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5uKzlppuPTBcU4LGKfgr4yHawxF_dRXEWfdgecBOPlIXPTqYzeXPK1YkXaH71uhaYRaE&usqp=CAU)
 
 ## ✈️ *Experiência profissional*
 * Vendas e atendimentos remoto sobre passagens aérea, turismo e visto. 
@@ -31,8 +29,6 @@
     * "Fala aí"
     * "Meu Sucesso"
     * "Cheio de atitude".
-
-![imagem não disponível](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoxVvA_WYaGzkr0lSi9LTBDwjU-cCgjIHtw&s)
 
 ## 👤 *Habilidades*
 * Conhecimento da linguagem de programação Python, como conceitos básicos e janelas tkinter.
