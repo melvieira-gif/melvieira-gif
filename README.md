@@ -14,7 +14,7 @@
 
 ## ✈️ *Experiência profissional*
 * Vendas e atendimentos remoto sobre passagens aérea, turismo e visto. 
-* Edições de vídeos, social mídia e utiilização de recursos audiovisuais para se obter contéudos interresantes.
+* Edições de vídeos, social mídia e utiilização de recursos audiovisuais para se obter contéudos interresantes e a habilidade de falar bem em público.
 * Cursos já feitos na escola técina Senai Paschoal:
     * Fundamentos de Python 1.
     * Competência Transversal- Segurança no trabalho.
