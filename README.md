@@ -22,6 +22,7 @@
     * Desvendando a Descarbonização.
     * Ética na inteligência artificial.
     * Fluência- Fundamentos na Inteligência Artificial.
+    * Implementação de serviços em nuvens- Microsoft AZ-900
 * Cursos da SEBRAE:
     * "Ensino médio/essa metamorfose Ambulante"
     * "Fui lá e fiz"
@@ -49,7 +50,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
