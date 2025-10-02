@@ -8,7 +8,6 @@
   - Sesi de Presidente Prudente 284 - Darcy Zacharias.
 - 1° ano do Ensino técnico
   - Senai Santo Paschoal Crepaldi.
-- Fiz 1 ano de inglês na escola CCAA de Presidente Prudente- Inglês básico.
 
 
 ## ✈️ *Experiência profissional*
